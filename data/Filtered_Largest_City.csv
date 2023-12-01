@@ -1,0 +1,1088 @@
+RegionName,Date,RegionName,HomeValue
+Chicago,2000-01-01,Chicago,166139.0
+Chicago,2000-02-01,Chicago,166536.0
+Chicago,2000-03-01,Chicago,167368.0
+Chicago,2000-04-01,Chicago,168826.0
+Chicago,2000-05-01,Chicago,170499.0
+Chicago,2000-06-01,Chicago,172008.0
+Chicago,2000-07-01,Chicago,173598.0
+Chicago,2000-08-01,Chicago,175282.0
+Chicago,2000-09-01,Chicago,176928.0
+Chicago,2000-10-01,Chicago,178634.0
+Chicago,2000-11-01,Chicago,180479.0
+Chicago,2000-12-01,Chicago,182259.0
+Chicago,2001-01-01,Chicago,183890.0
+Chicago,2001-02-01,Chicago,185143.0
+Chicago,2001-03-01,Chicago,186789.0
+Chicago,2001-04-01,Chicago,188315.0
+Chicago,2001-05-01,Chicago,190058.0
+Chicago,2001-06-01,Chicago,191482.0
+Chicago,2001-07-01,Chicago,192933.0
+Chicago,2001-08-01,Chicago,194629.0
+Chicago,2001-09-01,Chicago,196416.0
+Chicago,2001-10-01,Chicago,198340.0
+Chicago,2001-11-01,Chicago,199864.0
+Chicago,2001-12-01,Chicago,201093.0
+Chicago,2002-01-01,Chicago,202395.0
+Chicago,2002-02-01,Chicago,203787.0
+Chicago,2002-03-01,Chicago,205605.0
+Chicago,2002-04-01,Chicago,206834.0
+Chicago,2002-05-01,Chicago,208166.0
+Chicago,2002-06-01,Chicago,209016.0
+Chicago,2002-07-01,Chicago,210483.0
+Chicago,2002-08-01,Chicago,212197.0
+Chicago,2002-09-01,Chicago,214267.0
+Chicago,2002-10-01,Chicago,216097.0
+Chicago,2002-11-01,Chicago,217313.0
+Chicago,2002-12-01,Chicago,218765.0
+Chicago,2003-01-01,Chicago,220251.0
+Chicago,2003-02-01,Chicago,222107.0
+Chicago,2003-03-01,Chicago,223677.0
+Chicago,2003-04-01,Chicago,225389.0
+Chicago,2003-05-01,Chicago,226589.0
+Chicago,2003-06-01,Chicago,227809.0
+Chicago,2003-07-01,Chicago,228865.0
+Chicago,2003-08-01,Chicago,230510.0
+Chicago,2003-09-01,Chicago,232266.0
+Chicago,2003-10-01,Chicago,234303.0
+Chicago,2003-11-01,Chicago,236039.0
+Chicago,2003-12-01,Chicago,237862.0
+Chicago,2004-01-01,Chicago,239890.0
+Chicago,2004-02-01,Chicago,241705.0
+Chicago,2004-03-01,Chicago,243394.0
+Chicago,2004-04-01,Chicago,245263.0
+Chicago,2004-05-01,Chicago,247620.0
+Chicago,2004-06-01,Chicago,250097.0
+Chicago,2004-07-01,Chicago,252322.0
+Chicago,2004-08-01,Chicago,254471.0
+Chicago,2004-09-01,Chicago,256412.0
+Chicago,2004-10-01,Chicago,258534.0
+Chicago,2004-11-01,Chicago,260845.0
+Chicago,2004-12-01,Chicago,263400.0
+Chicago,2005-01-01,Chicago,265804.0
+Chicago,2005-02-01,Chicago,268095.0
+Chicago,2005-03-01,Chicago,270328.0
+Chicago,2005-04-01,Chicago,272724.0
+Chicago,2005-05-01,Chicago,275375.0
+Chicago,2005-06-01,Chicago,277971.0
+Chicago,2005-07-01,Chicago,280398.0
+Chicago,2005-08-01,Chicago,282666.0
+Chicago,2005-09-01,Chicago,285374.0
+Chicago,2005-10-01,Chicago,287769.0
+Chicago,2005-11-01,Chicago,290269.0
+Chicago,2005-12-01,Chicago,292733.0
+Chicago,2006-01-01,Chicago,295356.0
+Chicago,2006-02-01,Chicago,297863.0
+Chicago,2006-03-01,Chicago,300221.0
+Chicago,2006-04-01,Chicago,302191.0
+Chicago,2006-05-01,Chicago,303829.0
+Chicago,2006-07-01,Chicago,305267.0
+Chicago,2006-08-01,Chicago,305664.0
+Chicago,2006-09-01,Chicago,306024.0
+Chicago,2006-10-01,Chicago,305927.0
+Chicago,2006-11-01,Chicago,306047.0
+Chicago,2006-12-01,Chicago,306517.0
+Chicago,2007-01-01,Chicago,307639.0
+Chicago,2007-02-01,Chicago,308738.0
+Chicago,2007-03-01,Chicago,309375.0
+Chicago,2007-04-01,Chicago,309240.0
+Chicago,2007-05-01,Chicago,308595.0
+Chicago,2007-06-01,Chicago,307925.0
+Chicago,2007-07-01,Chicago,306992.0
+Chicago,2007-08-01,Chicago,306281.0
+Chicago,2007-09-01,Chicago,304921.0
+Chicago,2007-10-01,Chicago,303890.0
+Chicago,2007-11-01,Chicago,302715.0
+Chicago,2007-12-01,Chicago,301135.0
+Chicago,2008-01-01,Chicago,300207.0
+Chicago,2008-02-01,Chicago,296063.0
+Chicago,2008-05-01,Chicago,293467.0
+Chicago,2008-06-01,Chicago,288495.0
+Chicago,2008-07-01,Chicago,288174.0
+Chicago,2008-08-01,Chicago,283199.0
+Chicago,2008-09-01,Chicago,280695.0
+Chicago,2008-10-01,Chicago,274849.0
+Chicago,2008-11-01,Chicago,271059.0
+Chicago,2008-12-01,Chicago,265306.0
+Chicago,2009-01-01,Chicago,259446.0
+Chicago,2009-02-01,Chicago,255220.0
+Chicago,2009-03-01,Chicago,250583.0
+Chicago,2009-04-01,Chicago,249347.0
+Chicago,2009-05-01,Chicago,246137.0
+Chicago,2009-06-01,Chicago,245064.0
+Chicago,2009-07-01,Chicago,242981.0
+Chicago,2009-08-01,Chicago,241506.0
+Chicago,2009-09-01,Chicago,237514.0
+Chicago,2009-10-01,Chicago,234232.0
+Chicago,2009-11-01,Chicago,230695.0
+Chicago,2009-12-01,Chicago,230395.0
+Chicago,2010-01-01,Chicago,228459.0
+Chicago,2010-02-01,Chicago,228326.0
+Chicago,2010-03-01,Chicago,225504.0
+Chicago,2010-04-01,Chicago,226877.0
+Chicago,2010-05-01,Chicago,225475.0
+Chicago,2010-06-01,Chicago,226811.0
+Chicago,2010-07-01,Chicago,222738.0
+Chicago,2010-08-01,Chicago,220886.0
+Chicago,2010-09-01,Chicago,217038.0
+Chicago,2010-10-01,Chicago,214801.0
+Chicago,2010-11-01,Chicago,211361.0
+Chicago,2010-12-01,Chicago,208225.0
+Chicago,2011-01-01,Chicago,205757.0
+Chicago,2011-02-01,Chicago,203224.0
+Chicago,2011-03-01,Chicago,202110.0
+Chicago,2011-04-01,Chicago,200172.0
+Chicago,2011-05-01,Chicago,199784.0
+Chicago,2011-06-01,Chicago,197983.0
+Chicago,2011-07-01,Chicago,197852.0
+Chicago,2011-08-01,Chicago,196499.0
+Chicago,2011-09-01,Chicago,195393.0
+Chicago,2011-10-01,Chicago,191961.0
+Chicago,2011-11-01,Chicago,190113.0
+Chicago,2011-12-01,Chicago,186620.0
+Chicago,2012-01-01,Chicago,185295.0
+Chicago,2012-02-01,Chicago,181930.0
+Chicago,2012-03-01,Chicago,182673.0
+Chicago,2012-04-01,Chicago,182682.0
+Chicago,2012-05-01,Chicago,183711.0
+Chicago,2012-06-01,Chicago,182998.0
+Chicago,2012-07-01,Chicago,181436.0
+Chicago,2012-08-01,Chicago,180338.0
+Chicago,2012-09-01,Chicago,179230.0
+Chicago,2012-10-01,Chicago,180019.0
+Chicago,2012-11-01,Chicago,180935.0
+Chicago,2012-12-01,Chicago,181766.0
+Chicago,2013-01-01,Chicago,183312.0
+Chicago,2013-02-01,Chicago,184733.0
+Chicago,2013-03-01,Chicago,185970.0
+Chicago,2013-04-01,Chicago,187407.0
+Chicago,2013-05-01,Chicago,189065.0
+Chicago,2013-06-01,Chicago,192164.0
+Chicago,2013-07-01,Chicago,194963.0
+Chicago,2013-08-01,Chicago,197859.0
+Chicago,2013-09-01,Chicago,199540.0
+Chicago,2013-10-01,Chicago,202383.0
+Chicago,2013-11-01,Chicago,203215.0
+Chicago,2013-12-01,Chicago,204818.0
+Chicago,2014-01-01,Chicago,205051.0
+Chicago,2014-02-01,Chicago,207056.0
+Chicago,2014-03-01,Chicago,208148.0
+Chicago,2014-04-01,Chicago,208701.0
+Chicago,2014-05-01,Chicago,209819.0
+Chicago,2014-06-01,Chicago,211624.0
+Chicago,2014-07-01,Chicago,213030.0
+Chicago,2014-08-01,Chicago,213291.0
+Chicago,2014-09-01,Chicago,214040.0
+Chicago,2014-10-01,Chicago,214748.0
+Chicago,2014-11-01,Chicago,215524.0
+Chicago,2014-12-01,Chicago,216288.0
+Chicago,2015-01-01,Chicago,216728.0
+Chicago,2015-02-01,Chicago,217601.0
+Chicago,2015-03-01,Chicago,218417.0
+Chicago,2015-04-01,Chicago,220384.0
+Chicago,2015-05-01,Chicago,221807.0
+Chicago,2015-06-01,Chicago,222303.0
+Chicago,2015-07-01,Chicago,222749.0
+Chicago,2015-08-01,Chicago,223078.0
+Chicago,2015-09-01,Chicago,223321.0
+Chicago,2015-10-01,Chicago,223153.0
+Chicago,2015-11-01,Chicago,223333.0
+Chicago,2015-12-01,Chicago,224649.0
+Chicago,2016-01-01,Chicago,226226.0
+Chicago,2016-02-01,Chicago,229211.0
+Chicago,2016-03-01,Chicago,231164.0
+Chicago,2016-04-01,Chicago,232605.0
+Chicago,2016-05-01,Chicago,232757.0
+Chicago,2016-06-01,Chicago,232923.0
+Chicago,2016-07-01,Chicago,233628.0
+Chicago,2016-08-01,Chicago,234227.0
+Chicago,2016-09-01,Chicago,234846.0
+Chicago,2016-10-01,Chicago,235690.0
+Chicago,2016-11-01,Chicago,237345.0
+Chicago,2016-12-01,Chicago,239254.0
+Chicago,2017-01-01,Chicago,241516.0
+Chicago,2017-02-01,Chicago,243706.0
+Chicago,2017-03-01,Chicago,246315.0
+Chicago,2017-04-01,Chicago,247918.0
+Chicago,2017-05-01,Chicago,248736.0
+Chicago,2017-06-01,Chicago,248387.0
+Chicago,2017-07-01,Chicago,248272.0
+Chicago,2017-08-01,Chicago,248462.0
+Chicago,2017-09-01,Chicago,249600.0
+Chicago,2017-10-01,Chicago,250080.0
+Chicago,2017-11-01,Chicago,250728.0
+Chicago,2017-12-01,Chicago,252046.0
+Chicago,2018-01-01,Chicago,254397.0
+Chicago,2018-02-01,Chicago,256564.0
+Chicago,2018-03-01,Chicago,256995.0
+Chicago,2018-04-01,Chicago,257112.0
+Chicago,2018-05-01,Chicago,257174.0
+Chicago,2018-06-01,Chicago,257461.0
+Chicago,2018-07-01,Chicago,257467.0
+Chicago,2018-08-01,Chicago,257258.0
+Chicago,2018-09-01,Chicago,257917.0
+Chicago,2018-10-01,Chicago,258549.0
+Chicago,2018-11-01,Chicago,259637.0
+Chicago,2018-12-01,Chicago,260447.0
+Chicago,2019-01-01,Chicago,260559.0
+Chicago,2019-02-01,Chicago,261069.0
+Chicago,2019-03-01,Chicago,261214.0
+Chicago,2019-04-01,Chicago,261813.0
+Chicago,2019-05-01,Chicago,261519.0
+Chicago,2019-06-01,Chicago,261110.0
+Chicago,2019-07-01,Chicago,260676.0
+Chicago,2019-08-01,Chicago,260236.0
+Chicago,2019-09-01,Chicago,259915.0
+Chicago,2019-10-01,Chicago,259593.0
+Chicago,2019-11-01,Chicago,259510.0
+Chicago,2019-12-01,Chicago,259625.0
+Chicago,2020-01-01,Chicago,260161.0
+Chicago,2020-02-01,Chicago,261128.0
+Chicago,2020-03-01,Chicago,261799.0
+Chicago,2020-04-01,Chicago,262116.0
+Chicago,2020-05-01,Chicago,262013.0
+Chicago,2020-06-01,Chicago,262362.0
+Chicago,2020-07-01,Chicago,264051.0
+Chicago,2020-08-01,Chicago,266204.0
+Chicago,2020-09-01,Chicago,270202.0
+Chicago,2020-10-01,Chicago,273716.0
+Chicago,2020-11-01,Chicago,276541.0
+Chicago,2020-12-01,Chicago,278154.0
+Chicago,2021-01-01,Chicago,278668.0
+Chicago,2021-02-01,Chicago,280878.0
+Chicago,2021-03-01,Chicago,282423.0
+Chicago,2021-04-01,Chicago,285237.0
+Chicago,2021-05-01,Chicago,286248.0
+Chicago,2021-06-01,Chicago,288347.0
+Chicago,2021-07-01,Chicago,290773.0
+Chicago,2021-08-01,Chicago,293804.0
+Chicago,2021-09-01,Chicago,295841.0
+Chicago,2021-10-01,Chicago,297856.0
+Chicago,2021-11-01,Chicago,300413.0
+Chicago,2021-12-01,Chicago,302821.0
+Chicago,2022-01-01,Chicago,305104.0
+Chicago,2022-02-01,Chicago,306404.0
+Chicago,2022-03-01,Chicago,308303.0
+Chicago,2022-04-01,Chicago,309649.0
+Chicago,2022-05-01,Chicago,312487.0
+Chicago,2022-06-01,Chicago,314663.0
+Chicago,2022-07-01,Chicago,315910.0
+Chicago,2022-08-01,Chicago,315587.0
+Chicago,2022-09-01,Chicago,315429.0
+Houston,2000-01-01,Houston,109068.0
+Houston,2000-02-01,Houston,109079.0
+Houston,2000-03-01,Houston,108878.0
+Houston,2000-04-01,Houston,108881.0
+Houston,2000-05-01,Houston,108834.0
+Houston,2000-06-01,Houston,109066.0
+Houston,2000-07-01,Houston,109287.0
+Houston,2000-08-01,Houston,109631.0
+Houston,2000-09-01,Houston,110062.0
+Houston,2000-10-01,Houston,110310.0
+Houston,2000-11-01,Houston,110922.0
+Houston,2000-12-01,Houston,111504.0
+Houston,2001-01-01,Houston,111818.0
+Houston,2001-02-01,Houston,111831.0
+Houston,2001-03-01,Houston,111368.0
+Houston,2001-04-01,Houston,111219.0
+Houston,2001-05-01,Houston,111200.0
+Houston,2001-06-01,Houston,111416.0
+Houston,2001-07-01,Houston,111596.0
+Houston,2001-08-01,Houston,111496.0
+Houston,2001-09-01,Houston,111641.0
+Houston,2001-10-01,Houston,111883.0
+Houston,2001-11-01,Houston,112188.0
+Houston,2001-12-01,Houston,112411.0
+Houston,2002-01-01,Houston,112601.0
+Houston,2002-02-01,Houston,112872.0
+Houston,2002-03-01,Houston,113392.0
+Houston,2002-04-01,Houston,114022.0
+Houston,2002-05-01,Houston,114605.0
+Houston,2002-06-01,Houston,115065.0
+Houston,2002-07-01,Houston,115553.0
+Houston,2002-08-01,Houston,116128.0
+Houston,2002-09-01,Houston,116623.0
+Houston,2002-10-01,Houston,116917.0
+Houston,2002-11-01,Houston,117188.0
+Houston,2002-12-01,Houston,117382.0
+Houston,2003-01-01,Houston,117755.0
+Houston,2003-02-01,Houston,117989.0
+Houston,2003-03-01,Houston,118364.0
+Houston,2003-04-01,Houston,118558.0
+Houston,2003-05-01,Houston,118771.0
+Houston,2003-06-01,Houston,118916.0
+Houston,2003-07-01,Houston,119088.0
+Houston,2003-08-01,Houston,119331.0
+Houston,2003-09-01,Houston,119438.0
+Houston,2003-10-01,Houston,119603.0
+Houston,2003-11-01,Houston,119718.0
+Houston,2003-12-01,Houston,119995.0
+Houston,2004-01-01,Houston,120451.0
+Houston,2004-02-01,Houston,121546.0
+Houston,2004-04-01,Houston,124729.0
+Houston,2004-05-01,Houston,126049.0
+Houston,2004-06-01,Houston,126189.0
+Houston,2004-07-01,Houston,127067.0
+Houston,2004-08-01,Houston,127414.0
+Houston,2004-09-01,Houston,128196.0
+Houston,2004-10-01,Houston,128738.0
+Houston,2004-11-01,Houston,129328.0
+Houston,2004-12-01,Houston,130088.0
+Houston,2005-01-01,Houston,130793.0
+Houston,2005-02-01,Houston,131511.0
+Houston,2005-03-01,Houston,131971.0
+Houston,2005-04-01,Houston,132346.0
+Houston,2005-05-01,Houston,132419.0
+Houston,2005-06-01,Houston,132547.0
+Houston,2005-07-01,Houston,132524.0
+Houston,2005-08-01,Houston,132422.0
+Houston,2005-09-01,Houston,132254.0
+Houston,2005-10-01,Houston,132014.0
+Houston,2005-11-01,Houston,132173.0
+Houston,2005-12-01,Houston,132177.0
+Houston,2006-01-01,Houston,132321.0
+Houston,2006-02-01,Houston,132127.0
+Houston,2006-03-01,Houston,132225.0
+Houston,2006-04-01,Houston,132380.0
+Houston,2006-05-01,Houston,133032.0
+Houston,2006-06-01,Houston,133505.0
+Houston,2006-07-01,Houston,134051.0
+Houston,2006-08-01,Houston,134400.0
+Houston,2006-09-01,Houston,134967.0
+Houston,2006-10-01,Houston,135613.0
+Houston,2006-11-01,Houston,136102.0
+Houston,2006-12-01,Houston,136590.0
+Houston,2007-01-01,Houston,136725.0
+Houston,2007-02-01,Houston,136530.0
+Houston,2007-03-01,Houston,136151.0
+Houston,2007-04-01,Houston,136275.0
+Houston,2007-05-01,Houston,136707.0
+Houston,2007-06-01,Houston,137337.0
+Houston,2007-07-01,Houston,137575.0
+Houston,2007-08-01,Houston,137931.0
+Houston,2007-09-01,Houston,138179.0
+Houston,2007-10-01,Houston,138449.0
+Houston,2007-11-01,Houston,138636.0
+Houston,2007-12-01,Houston,138802.0
+Houston,2008-01-01,Houston,138208.0
+Houston,2008-02-01,Houston,137512.0
+Houston,2008-03-01,Houston,136795.0
+Houston,2008-04-01,Houston,136628.0
+Houston,2008-05-01,Houston,136228.0
+Houston,2008-06-01,Houston,135773.0
+Houston,2008-07-01,Houston,135392.0
+Houston,2008-08-01,Houston,134770.0
+Houston,2008-09-01,Houston,133932.0
+Houston,2008-10-01,Houston,133189.0
+Houston,2008-11-01,Houston,132247.0
+Houston,2008-12-01,Houston,131283.0
+Houston,2009-01-01,Houston,130248.0
+Houston,2009-02-01,Houston,130095.0
+Houston,2009-03-01,Houston,130039.0
+Houston,2009-04-01,Houston,130219.0
+Houston,2009-05-01,Houston,130392.0
+Houston,2009-06-01,Houston,130841.0
+Houston,2009-07-01,Houston,131352.0
+Houston,2009-08-01,Houston,131430.0
+Houston,2009-09-01,Houston,131181.0
+Houston,2009-10-01,Houston,130637.0
+Houston,2009-11-01,Houston,130546.0
+Houston,2009-12-01,Houston,130637.0
+Houston,2010-01-01,Houston,130455.0
+Houston,2010-02-01,Houston,130296.0
+Houston,2010-03-01,Houston,130454.0
+Houston,2010-04-01,Houston,130980.0
+Houston,2010-05-01,Houston,131366.0
+Houston,2010-06-01,Houston,131147.0
+Houston,2010-07-01,Houston,130241.0
+Houston,2010-08-01,Houston,128782.0
+Houston,2010-09-01,Houston,127639.0
+Houston,2010-10-01,Houston,126804.0
+Houston,2010-11-01,Houston,126407.0
+Houston,2010-12-01,Houston,125966.0
+Houston,2011-01-01,Houston,125407.0
+Houston,2011-02-01,Houston,124819.0
+Houston,2011-03-01,Houston,123890.0
+Houston,2011-04-01,Houston,123274.0
+Houston,2011-05-01,Houston,122771.0
+Houston,2011-06-01,Houston,122518.0
+Houston,2011-07-01,Houston,122424.0
+Houston,2011-08-01,Houston,122361.0
+Houston,2011-09-01,Houston,122168.0
+Houston,2011-10-01,Houston,121892.0
+Houston,2011-11-01,Houston,120903.0
+Houston,2011-12-01,Houston,120238.0
+Houston,2012-01-01,Houston,119943.0
+Houston,2012-02-01,Houston,120246.0
+Houston,2012-03-01,Houston,120729.0
+Houston,2012-04-01,Houston,120911.0
+Houston,2012-05-01,Houston,121210.0
+Houston,2012-06-01,Houston,121439.0
+Houston,2012-07-01,Houston,121991.0
+Houston,2012-08-01,Houston,122476.0
+Houston,2012-09-01,Houston,122770.0
+Houston,2012-10-01,Houston,122727.0
+Houston,2012-11-01,Houston,122968.0
+Houston,2012-12-01,Houston,123263.0
+Houston,2013-01-01,Houston,124014.0
+Houston,2013-02-01,Houston,124929.0
+Houston,2013-03-01,Houston,126562.0
+Houston,2013-04-01,Houston,128345.0
+Houston,2013-05-01,Houston,129986.0
+Houston,2013-06-01,Houston,131151.0
+Houston,2013-07-01,Houston,132362.0
+Houston,2013-08-01,Houston,133688.0
+Houston,2013-09-01,Houston,135033.0
+Houston,2013-10-01,Houston,136372.0
+Houston,2013-11-01,Houston,137593.0
+Houston,2013-12-01,Houston,138718.0
+Houston,2014-01-01,Houston,139964.0
+Houston,2014-02-01,Houston,141302.0
+Houston,2014-03-01,Houston,142381.0
+Houston,2014-04-01,Houston,143308.0
+Houston,2014-05-01,Houston,144178.0
+Houston,2014-06-01,Houston,145532.0
+Houston,2014-07-01,Houston,146850.0
+Houston,2014-08-01,Houston,148466.0
+Houston,2014-09-01,Houston,149946.0
+Houston,2014-10-01,Houston,151284.0
+Houston,2014-11-01,Houston,152468.0
+Houston,2014-12-01,Houston,153724.0
+Houston,2015-01-01,Houston,155200.0
+Houston,2015-02-01,Houston,156514.0
+Houston,2015-03-01,Houston,158115.0
+Houston,2015-04-01,Houston,159402.0
+Houston,2015-05-01,Houston,160644.0
+Houston,2015-06-01,Houston,161503.0
+Houston,2015-07-01,Houston,161971.0
+Houston,2015-08-01,Houston,162318.0
+Houston,2015-09-01,Houston,162550.0
+Houston,2015-10-01,Houston,163245.0
+Houston,2015-11-01,Houston,163767.0
+Houston,2015-12-01,Houston,164394.0
+Houston,2016-01-01,Houston,165478.0
+Houston,2016-02-01,Houston,166518.0
+Houston,2016-03-01,Houston,167212.0
+Houston,2016-04-01,Houston,167279.0
+Houston,2016-05-01,Houston,167752.0
+Houston,2016-06-01,Houston,168470.0
+Houston,2016-07-01,Houston,169335.0
+Houston,2016-08-01,Houston,169585.0
+Houston,2016-09-01,Houston,169807.0
+Houston,2016-10-01,Houston,170003.0
+Houston,2016-11-01,Houston,171100.0
+Houston,2016-12-01,Houston,172293.0
+Houston,2017-01-01,Houston,172942.0
+Houston,2017-02-01,Houston,173418.0
+Houston,2017-03-01,Houston,173936.0
+Houston,2017-04-01,Houston,174803.0
+Houston,2017-05-01,Houston,175355.0
+Houston,2017-06-01,Houston,175858.0
+Houston,2017-07-01,Houston,175998.0
+Houston,2017-08-01,Houston,176105.0
+Houston,2017-09-01,Houston,176291.0
+Houston,2017-10-01,Houston,176816.0
+Houston,2017-11-01,Houston,177493.0
+Houston,2017-12-01,Houston,178086.0
+Houston,2018-01-01,Houston,178763.0
+Houston,2018-02-01,Houston,179315.0
+Houston,2018-03-01,Houston,179901.0
+Houston,2018-04-01,Houston,180859.0
+Houston,2018-05-01,Houston,181862.0
+Houston,2018-06-01,Houston,182827.0
+Houston,2018-07-01,Houston,183544.0
+Houston,2018-08-01,Houston,184466.0
+Houston,2018-09-01,Houston,185430.0
+Houston,2018-10-01,Houston,186435.0
+Houston,2018-11-01,Houston,187384.0
+Houston,2018-12-01,Houston,188259.0
+Houston,2019-01-01,Houston,189335.0
+Houston,2019-02-01,Houston,190241.0
+Houston,2019-03-01,Houston,190741.0
+Houston,2019-04-01,Houston,190822.0
+Houston,2019-05-01,Houston,190969.0
+Houston,2019-06-01,Houston,191497.0
+Houston,2019-07-01,Houston,192025.0
+Houston,2019-08-01,Houston,192652.0
+Houston,2019-09-01,Houston,192972.0
+Houston,2019-10-01,Houston,193837.0
+Houston,2019-11-01,Houston,194401.0
+Houston,2019-12-01,Houston,194958.0
+Houston,2020-01-01,Houston,194696.0
+Houston,2020-02-01,Houston,194963.0
+Houston,2020-03-01,Houston,195870.0
+Houston,2020-04-01,Houston,197216.0
+Houston,2020-05-01,Houston,198080.0
+Houston,2020-06-01,Houston,198481.0
+Houston,2020-07-01,Houston,198890.0
+Houston,2020-08-01,Houston,199804.0
+Houston,2020-09-01,Houston,201875.0
+Houston,2020-10-01,Houston,204140.0
+Houston,2020-11-01,Houston,206623.0
+Houston,2020-12-01,Houston,208724.0
+Houston,2021-01-01,Houston,210777.0
+Houston,2021-02-01,Houston,213157.0
+Houston,2021-03-01,Houston,214351.0
+Houston,2021-04-01,Houston,216036.0
+Houston,2021-05-01,Houston,218153.0
+Houston,2021-06-01,Houston,222672.0
+Houston,2021-07-01,Houston,227604.0
+Houston,2021-08-01,Houston,232956.0
+Houston,2021-09-01,Houston,237056.0
+Houston,2021-10-01,Houston,240590.0
+Houston,2021-11-01,Houston,243006.0
+Houston,2021-12-01,Houston,245783.0
+Houston,2022-01-01,Houston,248718.0
+Houston,2022-02-01,Houston,252080.0
+Houston,2022-03-01,Houston,256435.0
+Houston,2022-04-01,Houston,261101.0
+Houston,2022-05-01,Houston,265558.0
+Houston,2022-06-01,Houston,268901.0
+Houston,2022-07-01,Houston,271059.0
+Houston,2022-08-01,Houston,272400.0
+Houston,2022-09-01,Houston,272639.0
+Los Angeles,2000-01-01,Los Angeles,234181.0
+Los Angeles,2000-02-01,Los Angeles,234401.0
+Los Angeles,2000-03-01,Los Angeles,235513.0
+Los Angeles,2000-04-01,Los Angeles,237589.0
+Los Angeles,2000-05-01,Los Angeles,240113.0
+Los Angeles,2000-06-01,Los Angeles,242421.0
+Los Angeles,2000-07-01,Los Angeles,244805.0
+Los Angeles,2000-08-01,Los Angeles,247479.0
+Los Angeles,2000-09-01,Los Angeles,249984.0
+Los Angeles,2000-10-01,Los Angeles,252045.0
+Los Angeles,2000-11-01,Los Angeles,254055.0
+Los Angeles,2000-12-01,Los Angeles,256060.0
+Los Angeles,2001-01-01,Los Angeles,257551.0
+Los Angeles,2001-02-01,Los Angeles,258958.0
+Los Angeles,2001-03-01,Los Angeles,260741.0
+Los Angeles,2001-04-01,Los Angeles,263334.0
+Los Angeles,2001-05-01,Los Angeles,265878.0
+Los Angeles,2001-06-01,Los Angeles,268376.0
+Los Angeles,2001-07-01,Los Angeles,270985.0
+Los Angeles,2001-08-01,Los Angeles,273798.0
+Los Angeles,2001-09-01,Los Angeles,276327.0
+Los Angeles,2001-10-01,Los Angeles,279005.0
+Los Angeles,2001-11-01,Los Angeles,281443.0
+Los Angeles,2001-12-01,Los Angeles,284098.0
+Los Angeles,2002-01-01,Los Angeles,286110.0
+Los Angeles,2002-02-01,Los Angeles,288395.0
+Los Angeles,2002-03-01,Los Angeles,291243.0
+Los Angeles,2002-04-01,Los Angeles,295002.0
+Los Angeles,2002-05-01,Los Angeles,299197.0
+Los Angeles,2002-06-01,Los Angeles,303318.0
+Los Angeles,2002-07-01,Los Angeles,308608.0
+Los Angeles,2002-08-01,Los Angeles,314186.0
+Los Angeles,2002-09-01,Los Angeles,320163.0
+Los Angeles,2002-10-01,Los Angeles,325457.0
+Los Angeles,2002-11-01,Los Angeles,330810.0
+Los Angeles,2002-12-01,Los Angeles,335948.0
+Los Angeles,2003-01-01,Los Angeles,340081.0
+Los Angeles,2003-02-01,Los Angeles,343717.0
+Los Angeles,2003-03-01,Los Angeles,348082.0
+Los Angeles,2003-04-01,Los Angeles,352579.0
+Los Angeles,2003-05-01,Los Angeles,358310.0
+Los Angeles,2003-06-01,Los Angeles,362722.0
+Los Angeles,2003-07-01,Los Angeles,369321.0
+Los Angeles,2003-08-01,Los Angeles,376132.0
+Los Angeles,2003-09-01,Los Angeles,383873.0
+Los Angeles,2003-10-01,Los Angeles,389616.0
+Los Angeles,2003-11-01,Los Angeles,395321.0
+Los Angeles,2003-12-01,Los Angeles,401405.0
+Los Angeles,2004-01-01,Los Angeles,408735.0
+Los Angeles,2004-02-01,Los Angeles,416092.0
+Los Angeles,2004-03-01,Los Angeles,423699.0
+Los Angeles,2004-04-01,Los Angeles,433262.0
+Los Angeles,2004-05-01,Los Angeles,445159.0
+Los Angeles,2004-06-01,Los Angeles,456763.0
+Los Angeles,2004-07-01,Los Angeles,467021.0
+Los Angeles,2004-08-01,Los Angeles,476362.0
+Los Angeles,2004-09-01,Los Angeles,487563.0
+Los Angeles,2004-10-01,Los Angeles,498293.0
+Los Angeles,2004-11-01,Los Angeles,505613.0
+Los Angeles,2004-12-01,Los Angeles,511820.0
+Los Angeles,2005-01-01,Los Angeles,516587.0
+Los Angeles,2005-02-01,Los Angeles,524782.0
+Los Angeles,2005-03-01,Los Angeles,532368.0
+Los Angeles,2005-04-01,Los Angeles,540901.0
+Los Angeles,2005-05-01,Los Angeles,547877.0
+Los Angeles,2005-06-01,Los Angeles,556479.0
+Los Angeles,2005-07-01,Los Angeles,566094.0
+Los Angeles,2005-08-01,Los Angeles,576654.0
+Los Angeles,2005-09-01,Los Angeles,587042.0
+Los Angeles,2005-10-01,Los Angeles,598793.0
+Los Angeles,2005-11-01,Los Angeles,607044.0
+Los Angeles,2005-12-01,Los Angeles,614231.0
+Los Angeles,2006-01-01,Los Angeles,620508.0
+Los Angeles,2006-02-01,Los Angeles,626117.0
+Los Angeles,2006-03-01,Los Angeles,632291.0
+Los Angeles,2006-04-01,Los Angeles,636337.0
+Los Angeles,2006-05-01,Los Angeles,642588.0
+Los Angeles,2006-06-01,Los Angeles,647248.0
+Los Angeles,2006-07-01,Los Angeles,650208.0
+Los Angeles,2006-08-01,Los Angeles,651968.0
+Los Angeles,2006-09-01,Los Angeles,649814.0
+Los Angeles,2006-10-01,Los Angeles,649265.0
+Los Angeles,2006-11-01,Los Angeles,649062.0
+Los Angeles,2006-12-01,Los Angeles,651254.0
+Los Angeles,2007-01-01,Los Angeles,652081.0
+Los Angeles,2007-02-01,Los Angeles,651964.0
+Los Angeles,2007-03-01,Los Angeles,650431.0
+Los Angeles,2007-04-01,Los Angeles,649986.0
+Los Angeles,2007-05-01,Los Angeles,647314.0
+Los Angeles,2007-06-01,Los Angeles,644559.0
+Los Angeles,2007-07-01,Los Angeles,639188.0
+Los Angeles,2007-08-01,Los Angeles,633784.0
+Los Angeles,2007-09-01,Los Angeles,627838.0
+Los Angeles,2007-10-01,Los Angeles,620606.0
+Los Angeles,2007-11-01,Los Angeles,614172.0
+Los Angeles,2007-12-01,Los Angeles,607386.0
+Los Angeles,2008-01-01,Los Angeles,603029.0
+Los Angeles,2008-02-01,Los Angeles,596635.0
+Los Angeles,2008-03-01,Los Angeles,586065.0
+Los Angeles,2008-04-01,Los Angeles,571226.0
+Los Angeles,2008-05-01,Los Angeles,554589.0
+Los Angeles,2008-06-01,Los Angeles,539622.0
+Los Angeles,2008-07-01,Los Angeles,524220.0
+Los Angeles,2008-08-01,Los Angeles,510520.0
+Los Angeles,2008-09-01,Los Angeles,500124.0
+Los Angeles,2008-10-01,Los Angeles,490979.0
+Los Angeles,2008-11-01,Los Angeles,481905.0
+Los Angeles,2008-12-01,Los Angeles,469294.0
+Los Angeles,2009-01-01,Los Angeles,460769.0
+Los Angeles,2009-02-01,Los Angeles,455196.0
+Los Angeles,2009-03-01,Los Angeles,452616.0
+Los Angeles,2009-04-01,Los Angeles,449058.0
+Los Angeles,2009-05-01,Los Angeles,445538.0
+Los Angeles,2009-06-01,Los Angeles,440212.0
+Los Angeles,2009-07-01,Los Angeles,436155.0
+Los Angeles,2009-08-01,Los Angeles,433816.0
+Los Angeles,2009-09-01,Los Angeles,433361.0
+Los Angeles,2009-10-01,Los Angeles,433521.0
+Los Angeles,2009-11-01,Los Angeles,435313.0
+Los Angeles,2009-12-01,Los Angeles,439990.0
+Los Angeles,2010-01-01,Los Angeles,441891.0
+Los Angeles,2010-02-01,Los Angeles,441100.0
+Los Angeles,2010-03-01,Los Angeles,441906.0
+Los Angeles,2010-04-01,Los Angeles,444149.0
+Los Angeles,2010-05-01,Los Angeles,448457.0
+Los Angeles,2010-06-01,Los Angeles,446562.0
+Los Angeles,2010-07-01,Los Angeles,444166.0
+Los Angeles,2010-08-01,Los Angeles,438616.0
+Los Angeles,2010-09-01,Los Angeles,433797.0
+Los Angeles,2010-10-01,Los Angeles,428969.0
+Los Angeles,2010-11-01,Los Angeles,424735.0
+Los Angeles,2010-12-01,Los Angeles,423727.0
+Los Angeles,2011-01-01,Los Angeles,423030.0
+Los Angeles,2011-02-01,Los Angeles,423778.0
+Los Angeles,2011-03-01,Los Angeles,422018.0
+Los Angeles,2011-04-01,Los Angeles,420755.0
+Los Angeles,2011-05-01,Los Angeles,415887.0
+Los Angeles,2011-06-01,Los Angeles,415185.0
+Los Angeles,2011-07-01,Los Angeles,413684.0
+Los Angeles,2011-08-01,Los Angeles,410970.0
+Los Angeles,2011-09-01,Los Angeles,405799.0
+Los Angeles,2011-10-01,Los Angeles,400845.0
+Los Angeles,2011-11-01,Los Angeles,400207.0
+Los Angeles,2011-12-01,Los Angeles,400053.0
+Los Angeles,2012-01-01,Los Angeles,399992.0
+Los Angeles,2012-02-01,Los Angeles,399912.0
+Los Angeles,2012-03-01,Los Angeles,399655.0
+Los Angeles,2012-04-01,Los Angeles,400470.0
+Los Angeles,2012-05-01,Los Angeles,401682.0
+Los Angeles,2012-06-01,Los Angeles,404044.0
+Los Angeles,2012-07-01,Los Angeles,406757.0
+Los Angeles,2012-08-01,Los Angeles,408448.0
+Los Angeles,2012-09-01,Los Angeles,410228.0
+Los Angeles,2012-10-01,Los Angeles,414047.0
+Los Angeles,2012-11-01,Los Angeles,418700.0
+Los Angeles,2012-12-01,Los Angeles,426175.0
+Los Angeles,2013-01-01,Los Angeles,432089.0
+Los Angeles,2013-02-01,Los Angeles,441439.0
+Los Angeles,2013-03-01,Los Angeles,450540.0
+Los Angeles,2013-04-01,Los Angeles,461344.0
+Los Angeles,2013-05-01,Los Angeles,470086.0
+Los Angeles,2013-06-01,Los Angeles,479210.0
+Los Angeles,2013-07-01,Los Angeles,488076.0
+Los Angeles,2013-08-01,Los Angeles,498065.0
+Los Angeles,2013-09-01,Los Angeles,505895.0
+Los Angeles,2013-10-01,Los Angeles,511593.0
+Los Angeles,2013-11-01,Los Angeles,516896.0
+Los Angeles,2013-12-01,Los Angeles,520983.0
+Los Angeles,2014-01-01,Los Angeles,526819.0
+Los Angeles,2014-02-01,Los Angeles,529072.0
+Los Angeles,2014-03-01,Los Angeles,531557.0
+Los Angeles,2014-04-01,Los Angeles,531120.0
+Los Angeles,2014-05-01,Los Angeles,532665.0
+Los Angeles,2014-06-01,Los Angeles,533538.0
+Los Angeles,2014-07-01,Los Angeles,535226.0
+Los Angeles,2014-08-01,Los Angeles,533443.0
+Los Angeles,2014-09-01,Los Angeles,532300.0
+Los Angeles,2014-10-01,Los Angeles,532687.0
+Los Angeles,2014-11-01,Los Angeles,536244.0
+Los Angeles,2014-12-01,Los Angeles,540465.0
+Los Angeles,2015-01-01,Los Angeles,545885.0
+Los Angeles,2015-02-01,Los Angeles,551341.0
+Los Angeles,2015-03-01,Los Angeles,555871.0
+Los Angeles,2015-04-01,Los Angeles,556693.0
+Los Angeles,2015-05-01,Los Angeles,559510.0
+Los Angeles,2015-06-01,Los Angeles,562322.0
+Los Angeles,2015-07-01,Los Angeles,562325.0
+Los Angeles,2015-08-01,Los Angeles,562658.0
+Los Angeles,2015-09-01,Los Angeles,563602.0
+Los Angeles,2015-10-01,Los Angeles,569469.0
+Los Angeles,2015-11-01,Los Angeles,574208.0
+Los Angeles,2015-12-01,Los Angeles,580990.0
+Los Angeles,2016-01-01,Los Angeles,585442.0
+Los Angeles,2016-02-01,Los Angeles,590203.0
+Los Angeles,2016-03-01,Los Angeles,592557.0
+Los Angeles,2016-04-01,Los Angeles,598054.0
+Los Angeles,2016-05-01,Los Angeles,602206.0
+Los Angeles,2016-06-01,Los Angeles,607202.0
+Los Angeles,2016-07-01,Los Angeles,606501.0
+Los Angeles,2016-08-01,Los Angeles,607920.0
+Los Angeles,2016-09-01,Los Angeles,610652.0
+Los Angeles,2016-10-01,Los Angeles,617723.0
+Los Angeles,2016-11-01,Los Angeles,622027.0
+Los Angeles,2016-12-01,Los Angeles,625054.0
+Los Angeles,2017-01-01,Los Angeles,629451.0
+Los Angeles,2017-02-01,Los Angeles,633173.0
+Los Angeles,2017-03-01,Los Angeles,636272.0
+Los Angeles,2017-04-01,Los Angeles,637960.0
+Los Angeles,2017-05-01,Los Angeles,641862.0
+Los Angeles,2017-06-01,Los Angeles,646151.0
+Los Angeles,2017-07-01,Los Angeles,647431.0
+Los Angeles,2017-08-01,Los Angeles,649442.0
+Los Angeles,2017-09-01,Los Angeles,652048.0
+Los Angeles,2017-10-01,Los Angeles,658140.0
+Los Angeles,2017-11-01,Los Angeles,665500.0
+Los Angeles,2017-12-01,Los Angeles,671657.0
+Los Angeles,2018-01-01,Los Angeles,677868.0
+Los Angeles,2018-02-01,Los Angeles,684769.0
+Los Angeles,2018-03-01,Los Angeles,691712.0
+Los Angeles,2018-04-01,Los Angeles,697356.0
+Los Angeles,2018-05-01,Los Angeles,699877.0
+Los Angeles,2018-06-01,Los Angeles,702845.0
+Los Angeles,2018-07-01,Los Angeles,703056.0
+Los Angeles,2018-08-01,Los Angeles,704432.0
+Los Angeles,2018-09-01,Los Angeles,705953.0
+Los Angeles,2018-10-01,Los Angeles,710613.0
+Los Angeles,2018-11-01,Los Angeles,713509.0
+Los Angeles,2018-12-01,Los Angeles,713466.0
+Los Angeles,2019-01-01,Los Angeles,713039.0
+Los Angeles,2019-02-01,Los Angeles,710740.0
+Los Angeles,2019-03-01,Los Angeles,708695.0
+Los Angeles,2019-04-01,Los Angeles,708253.0
+Los Angeles,2019-05-01,Los Angeles,709540.0
+Los Angeles,2019-06-01,Los Angeles,712032.0
+Los Angeles,2019-07-01,Los Angeles,709602.0
+Los Angeles,2019-08-01,Los Angeles,709570.0
+Los Angeles,2019-09-01,Los Angeles,710903.0
+Los Angeles,2019-10-01,Los Angeles,716898.0
+Los Angeles,2019-11-01,Los Angeles,720486.0
+Los Angeles,2019-12-01,Los Angeles,724788.0
+Los Angeles,2020-01-01,Los Angeles,728863.0
+Los Angeles,2020-02-01,Los Angeles,736897.0
+Los Angeles,2020-03-01,Los Angeles,744920.0
+Los Angeles,2020-04-01,Los Angeles,751352.0
+Los Angeles,2020-05-01,Los Angeles,748812.0
+Los Angeles,2020-06-01,Los Angeles,745549.0
+Los Angeles,2020-07-01,Los Angeles,749101.0
+Los Angeles,2020-08-01,Los Angeles,760154.0
+Los Angeles,2020-09-01,Los Angeles,774031.0
+Los Angeles,2020-10-01,Los Angeles,785197.0
+Los Angeles,2020-11-01,Los Angeles,792777.0
+Los Angeles,2020-12-01,Los Angeles,797263.0
+Los Angeles,2021-01-01,Los Angeles,800393.0
+Los Angeles,2021-02-01,Los Angeles,808089.0
+Los Angeles,2021-03-01,Los Angeles,816495.0
+Los Angeles,2021-04-01,Los Angeles,829120.0
+Los Angeles,2021-05-01,Los Angeles,845605.0
+Los Angeles,2021-06-01,Los Angeles,865687.0
+Los Angeles,2021-07-01,Los Angeles,888002.0
+Los Angeles,2021-08-01,Los Angeles,901552.0
+Los Angeles,2021-09-01,Los Angeles,911248.0
+Los Angeles,2021-10-01,Los Angeles,914090.0
+Los Angeles,2021-11-01,Los Angeles,918444.0
+Los Angeles,2021-12-01,Los Angeles,924019.0
+Los Angeles,2022-01-01,Los Angeles,928991.0
+Los Angeles,2022-02-01,Los Angeles,937936.0
+Los Angeles,2022-03-01,Los Angeles,953874.0
+Los Angeles,2022-04-01,Los Angeles,973168.0
+Los Angeles,2022-05-01,Los Angeles,990391.0
+Los Angeles,2022-06-01,Los Angeles,992337.0
+Los Angeles,2022-07-01,Los Angeles,992630.0
+Los Angeles,2022-08-01,Los Angeles,978196.0
+Los Angeles,2022-09-01,Los Angeles,966595.0
+New York,2000-01-01,New York,253690.0
+New York,2000-02-01,New York,255517.0
+New York,2000-03-01,New York,257207.0
+New York,2000-04-01,New York,260310.0
+New York,2000-05-01,New York,263204.0
+New York,2000-06-01,New York,266206.0
+New York,2000-07-01,New York,269324.0
+New York,2000-08-01,New York,272045.0
+New York,2000-09-01,New York,274610.0
+New York,2000-10-01,New York,277439.0
+New York,2000-11-01,New York,280925.0
+New York,2000-12-01,New York,284072.0
+New York,2001-01-01,New York,287118.0
+New York,2001-02-01,New York,289892.0
+New York,2001-03-01,New York,293193.0
+New York,2001-04-01,New York,296389.0
+New York,2001-05-01,New York,299302.0
+New York,2001-06-01,New York,302120.0
+New York,2001-07-01,New York,304740.0
+New York,2001-08-01,New York,307580.0
+New York,2001-09-01,New York,309783.0
+New York,2001-10-01,New York,312162.0
+New York,2001-11-01,New York,314868.0
+New York,2001-12-01,New York,318074.0
+New York,2002-01-01,New York,321528.0
+New York,2002-02-01,New York,323675.0
+New York,2002-03-01,New York,323070.0
+New York,2002-04-01,New York,321943.0
+New York,2002-06-01,New York,324148.0
+New York,2002-07-01,New York,326758.0
+New York,2002-08-01,New York,330210.0
+New York,2002-09-01,New York,333453.0
+New York,2002-10-01,New York,336666.0
+New York,2002-11-01,New York,338838.0
+New York,2002-12-01,New York,341000.0
+New York,2003-01-01,New York,343228.0
+New York,2003-02-01,New York,346501.0
+New York,2003-03-01,New York,350643.0
+New York,2003-04-01,New York,355426.0
+New York,2003-05-01,New York,360063.0
+New York,2003-06-01,New York,365359.0
+New York,2003-07-01,New York,369589.0
+New York,2003-08-01,New York,373404.0
+New York,2003-09-01,New York,375975.0
+New York,2003-10-01,New York,378964.0
+New York,2003-11-01,New York,382001.0
+New York,2003-12-01,New York,385034.0
+New York,2004-01-01,New York,388643.0
+New York,2004-02-01,New York,392144.0
+New York,2004-03-01,New York,395659.0
+New York,2004-04-01,New York,398641.0
+New York,2004-05-01,New York,402494.0
+New York,2004-06-01,New York,406543.0
+New York,2004-07-01,New York,411545.0
+New York,2004-08-01,New York,415806.0
+New York,2004-09-01,New York,421448.0
+New York,2004-10-01,New York,427436.0
+New York,2004-11-01,New York,434280.0
+New York,2004-12-01,New York,440351.0
+New York,2005-01-01,New York,445083.0
+New York,2005-02-01,New York,449783.0
+New York,2005-03-01,New York,455706.0
+New York,2005-04-01,New York,462730.0
+New York,2005-05-01,New York,469737.0
+New York,2005-06-01,New York,474641.0
+New York,2005-07-01,New York,481469.0
+New York,2005-08-01,New York,488465.0
+New York,2005-09-01,New York,496490.0
+New York,2005-10-01,New York,504240.0
+New York,2005-11-01,New York,510505.0
+New York,2005-12-01,New York,518321.0
+New York,2006-01-01,New York,524506.0
+New York,2006-02-01,New York,531180.0
+New York,2006-03-01,New York,534690.0
+New York,2006-04-01,New York,537450.0
+New York,2006-05-01,New York,541227.0
+New York,2006-06-01,New York,545399.0
+New York,2006-07-01,New York,548731.0
+New York,2006-08-01,New York,551922.0
+New York,2006-09-01,New York,553075.0
+New York,2006-10-01,New York,551202.0
+New York,2006-11-01,New York,545438.0
+New York,2006-12-01,New York,542420.0
+New York,2007-01-01,New York,541607.0
+New York,2007-02-01,New York,542651.0
+New York,2007-03-01,New York,546786.0
+New York,2007-04-01,New York,548487.0
+New York,2007-05-01,New York,551304.0
+New York,2007-06-01,New York,547678.0
+New York,2007-07-01,New York,546023.0
+New York,2007-08-01,New York,544485.0
+New York,2007-09-01,New York,543781.0
+New York,2007-10-01,New York,544998.0
+New York,2007-11-01,New York,545412.0
+New York,2007-12-01,New York,546253.0
+New York,2008-01-01,New York,546538.0
+New York,2008-02-01,New York,546098.0
+New York,2008-03-01,New York,544562.0
+New York,2008-04-01,New York,541865.0
+New York,2008-05-01,New York,537685.0
+New York,2008-06-01,New York,533810.0
+New York,2008-07-01,New York,529211.0
+New York,2008-08-01,New York,525290.0
+New York,2008-09-01,New York,521347.0
+New York,2008-10-01,New York,518048.0
+New York,2008-11-01,New York,514767.0
+New York,2008-12-01,New York,510309.0
+New York,2009-01-01,New York,505545.0
+New York,2009-02-01,New York,500172.0
+New York,2009-03-01,New York,496410.0
+New York,2009-04-01,New York,492349.0
+New York,2009-05-01,New York,488965.0
+New York,2009-06-01,New York,484887.0
+New York,2009-07-01,New York,480690.0
+New York,2009-08-01,New York,476296.0
+New York,2009-09-01,New York,472997.0
+New York,2009-10-01,New York,470491.0
+New York,2009-11-01,New York,470036.0
+New York,2009-12-01,New York,469131.0
+New York,2010-01-01,New York,469122.0
+New York,2010-02-01,New York,469123.0
+New York,2010-03-01,New York,468107.0
+New York,2010-04-01,New York,467422.0
+New York,2010-05-01,New York,467058.0
+New York,2010-06-01,New York,469041.0
+New York,2010-07-01,New York,471366.0
+New York,2010-08-01,New York,472308.0
+New York,2010-09-01,New York,473539.0
+New York,2010-10-01,New York,473816.0
+New York,2010-11-01,New York,473416.0
+New York,2010-12-01,New York,471332.0
+New York,2011-01-01,New York,470436.0
+New York,2011-02-01,New York,470023.0
+New York,2011-03-01,New York,471841.0
+New York,2011-04-01,New York,472081.0
+New York,2011-05-01,New York,472328.0
+New York,2011-06-01,New York,471006.0
+New York,2011-07-01,New York,469956.0
+New York,2011-08-01,New York,469250.0
+New York,2011-09-01,New York,468573.0
+New York,2011-10-01,New York,467687.0
+New York,2011-11-01,New York,466847.0
+New York,2011-12-01,New York,466572.0
+New York,2012-01-01,New York,466337.0
+New York,2012-02-01,New York,466059.0
+New York,2012-03-01,New York,464701.0
+New York,2012-04-01,New York,464952.0
+New York,2012-05-01,New York,464835.0
+New York,2012-06-01,New York,466213.0
+New York,2012-07-01,New York,466255.0
+New York,2012-08-01,New York,466479.0
+New York,2012-09-01,New York,466788.0
+New York,2012-10-01,New York,467576.0
+New York,2012-11-01,New York,469609.0
+New York,2012-12-01,New York,471301.0
+New York,2013-01-01,New York,472953.0
+New York,2013-02-01,New York,473970.0
+New York,2013-03-01,New York,475341.0
+New York,2013-04-01,New York,477711.0
+New York,2013-05-01,New York,480285.0
+New York,2013-06-01,New York,483392.0
+New York,2013-07-01,New York,485780.0
+New York,2013-08-01,New York,488756.0
+New York,2013-09-01,New York,491880.0
+New York,2013-10-01,New York,495238.0
+New York,2013-11-01,New York,498503.0
+New York,2013-12-01,New York,501066.0
+New York,2014-01-01,New York,504358.0
+New York,2014-02-01,New York,508460.0
+New York,2014-03-01,New York,512767.0
+New York,2014-04-01,New York,517020.0
+New York,2014-05-01,New York,519548.0
+New York,2014-06-01,New York,521827.0
+New York,2014-07-01,New York,523994.0
+New York,2014-08-01,New York,526960.0
+New York,2014-09-01,New York,530259.0
+New York,2014-10-01,New York,532636.0
+New York,2014-11-01,New York,535174.0
+New York,2014-12-01,New York,537597.0
+New York,2015-01-01,New York,539714.0
+New York,2015-02-01,New York,541519.0
+New York,2015-03-01,New York,542949.0
+New York,2015-04-01,New York,546086.0
+New York,2015-05-01,New York,549158.0
+New York,2015-06-01,New York,553907.0
+New York,2015-07-01,New York,557588.0
+New York,2015-08-01,New York,561230.0
+New York,2015-09-01,New York,564172.0
+New York,2015-10-01,New York,567015.0
+New York,2015-11-01,New York,570778.0
+New York,2015-12-01,New York,574357.0
+New York,2016-01-01,New York,577233.0
+New York,2016-02-01,New York,579539.0
+New York,2016-03-01,New York,581544.0
+New York,2016-04-01,New York,585030.0
+New York,2016-05-01,New York,588447.0
+New York,2016-06-01,New York,591804.0
+New York,2016-07-01,New York,594949.0
+New York,2016-08-01,New York,598075.0
+New York,2016-09-01,New York,601320.0
+New York,2016-10-01,New York,604287.0
+New York,2016-11-01,New York,607787.0
+New York,2016-12-01,New York,611658.0
+New York,2017-01-01,New York,615747.0
+New York,2017-02-01,New York,618357.0
+New York,2017-03-01,New York,621066.0
+New York,2017-04-01,New York,623072.0
+New York,2017-05-01,New York,626662.0
+New York,2017-06-01,New York,630102.0
+New York,2017-07-01,New York,634813.0
+New York,2017-08-01,New York,638447.0
+New York,2017-09-01,New York,642131.0
+New York,2017-10-01,New York,646474.0
+New York,2017-11-01,New York,650521.0
+New York,2017-12-01,New York,654063.0
+New York,2018-01-01,New York,656700.0
+New York,2018-02-01,New York,661012.0
+New York,2018-03-01,New York,665672.0
+New York,2018-04-01,New York,669989.0
+New York,2018-05-01,New York,673514.0
+New York,2018-06-01,New York,676434.0
+New York,2018-07-01,New York,678984.0
+New York,2018-08-01,New York,681140.0
+New York,2018-09-01,New York,683546.0
+New York,2018-10-01,New York,685588.0
+New York,2018-11-01,New York,688553.0
+New York,2018-12-01,New York,691226.0
+New York,2019-01-01,New York,693208.0
+New York,2019-02-01,New York,694425.0
+New York,2019-03-01,New York,695720.0
+New York,2019-04-01,New York,695824.0
+New York,2019-05-01,New York,696173.0
+New York,2019-06-01,New York,695186.0
+New York,2019-07-01,New York,695010.0
+New York,2019-08-01,New York,692926.0
+New York,2019-09-01,New York,690189.0
+New York,2019-10-01,New York,687693.0
+New York,2019-11-01,New York,686304.0
+New York,2019-12-01,New York,686650.0
+New York,2020-01-01,New York,688073.0
+New York,2020-02-01,New York,689697.0
+New York,2020-03-01,New York,690055.0
+New York,2020-04-01,New York,690520.0
+New York,2020-05-01,New York,689921.0
+New York,2020-06-01,New York,690785.0
+New York,2020-07-01,New York,691384.0
+New York,2020-08-01,New York,693097.0
+New York,2020-09-01,New York,694261.0
+New York,2020-10-01,New York,696260.0
+New York,2020-11-01,New York,698929.0
+New York,2020-12-01,New York,701899.0
+New York,2021-01-01,New York,703956.0
+New York,2021-02-01,New York,705003.0
+New York,2021-03-01,New York,706066.0
+New York,2021-04-01,New York,707633.0
+New York,2021-05-01,New York,710706.0
+New York,2021-06-01,New York,714507.0
+New York,2021-07-01,New York,719155.0
+New York,2021-08-01,New York,724138.0
+New York,2021-09-01,New York,730055.0
+New York,2021-10-01,New York,735069.0
+New York,2021-11-01,New York,738773.0
+New York,2021-12-01,New York,741586.0
+New York,2022-01-01,New York,745686.0
+New York,2022-02-01,New York,750578.0
+New York,2022-03-01,New York,756734.0
+New York,2022-04-01,New York,762321.0
+New York,2022-05-01,New York,768797.0
+New York,2022-06-01,New York,773944.0
+New York,2022-07-01,New York,777692.0
+New York,2022-08-01,New York,779960.0
+New York,2022-09-01,New York,781622.0
